@@ -1,0 +1,11 @@
+{
+  "name": "replace-template",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "change": "node index"
+  },
+  "author": "hanz",
+  "license": "ISC"
+}
