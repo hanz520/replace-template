@@ -18,4 +18,4 @@ config配置
 npm run change
 ```
 
-demo已经生成了web-output目录，你可以删除掉改目录运行一遍，看一下效果。
+demo已经生成了web-output目录，你可以删除掉该目录运行一遍，看一下效果。
